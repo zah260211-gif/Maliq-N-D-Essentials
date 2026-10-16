@@ -10,6 +10,7 @@ h1 {text-align:center;
 p {font-family:georgia;
   color:darkpink;
   font-size:24px;
+   text-align:center;
   }
 body {background-color:pink;
      }
@@ -17,5 +18,5 @@ ul {font-family:georgia;
     color:white;
    list-style-type:square;
    }
-img {width:250px;
+img {width:50px;
     }
