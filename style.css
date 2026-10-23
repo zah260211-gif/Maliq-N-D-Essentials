@@ -12,8 +12,13 @@ p {font-family:georgia;
   font-size:14px;
    text-align:center;
   }
-body {background-color:navy;
+body {margin:0;
+      font-family:'gill sans','gill sans mt',calibri,trebuchet ms,sans-serif;
+      background-color:navy;
      }
+nav {background-color:white;
+nav ul {list-style:none;
+       }
 ul {font-family:georgia;
     color:white;
    list-style-type:square;
