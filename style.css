@@ -14,11 +14,21 @@ p {font-family:georgia;
   }
 body {margin:0;
       font-family:'gill sans','gill sans mt',calibri,trebuchet ms,sans-serif;
-      background-color:navy;
      }
-nav {background-color:white;
+nav {background-color:black;
 nav ul {list-style:none;
+        display:flex;
+        justify-content:center;
+        padding:0;
+        margin:0;
        }
+nav li {margin:0 15px;
+       }
+nav a {color:white;
+       text-decoration:none;
+       padding:15px;
+       display:block;
+      }
 ul {font-family:georgia;
     color:white;
    list-style-type:square;
