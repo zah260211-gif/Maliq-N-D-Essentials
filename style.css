@@ -19,4 +19,6 @@ ul {font-family:georgia;
    list-style-type:square;
    }
 img {width:100px;
+     display:block;
+     margin:auto;
     }
